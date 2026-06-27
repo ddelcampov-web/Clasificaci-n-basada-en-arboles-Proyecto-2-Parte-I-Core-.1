@@ -77,3 +77,18 @@ Construir un modelo de clasificación binaria que permita predecir la clase del 
 
 ## Licencia
 Uso académico y educativo.
+
+# Proyecto 2 – Parte II: Preprocesamiento y Optimización
+
+https://colab.research.google.com/drive/15VnZZYRb-fTwE9WFDIHtGxQjC7GqRbE5?usp=sharing
+
+## Tag de liberación
+Para crear el tag solicitado en GitHub:
+
+```bash
+git add .
+git commit -m "Proyecto 2 Parte II"
+git tag -a v2.0.0 -m "Entrega Proyecto 2 Parte II"
+git push origin main
+git push origin v2.0.0
+```
