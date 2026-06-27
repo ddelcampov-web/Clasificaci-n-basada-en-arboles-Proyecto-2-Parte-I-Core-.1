@@ -24,6 +24,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio inicial de 
 - Tamaño: 442 filas.
 - Problema sugerido: regresión.
 - Objetivo: predecir la progresión de la diabetes a partir de variables clínicas.
+- https://colab.research.google.com/drive/19Ozyi6H3ckg6WdXLijtdYTZKkMwN88Sd?usp=sharing
 
 ## Resumen del EDA Inicial
 Se realizó una exploración inicial de los tres datasets incluyendo:
