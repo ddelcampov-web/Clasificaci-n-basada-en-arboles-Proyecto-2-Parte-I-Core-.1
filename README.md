@@ -17,6 +17,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio inicial de 
 - Tamaño: 569 filas.
 - Problema sugerido: clasificación binaria.
 - Objetivo: predecir si un tumor es benigno o maligno.
+- https://colab.research.google.com/drive/1wYrQu61aYp_qDgmw6l_cHCzgS-jw6oim?usp=sharing
 
 ### 3. Diabetes
 - Fuente: Scikit-learn.
