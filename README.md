@@ -11,6 +11,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio inicial de 
 - Tamaño: 150 filas.
 - Problema sugerido: clasificación multiclase.
 - Objetivo: predecir la especie de flor según medidas de sépalos y pétalos.
+- https://colab.research.google.com/drive/1piUQHzln1UehE4H1hvWD1OKnnYGqxf9H?usp=sharing
 
 ### 2. Breast Cancer Wisconsin
 - Fuente: Scikit-learn / UCI Machine Learning Repository.
